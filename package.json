@@ -1,0 +1,21 @@
+{
+  "name": "sebastian-codes-dracula",
+  "displayName": "Sebastian Codes Dracula",
+  "description": "Description(TODO)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sebastian Codes Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sebastian Codes Dracula-color-theme.json"
+      }
+    ]
+  }
+}
