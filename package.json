@@ -1,8 +1,22 @@
 {
   "name": "sebastian-codes-dracula",
   "displayName": "Sebastian Codes Dracula",
-  "description": "Description(TODO)",
-  "version": "0.0.1",
+  "description": "Slightly modified version of the popular Dracula theme. It uses some of my favorite colors. Enjoy!",
+  "version": "1.0.0",
+  "publisher" : "SebastianCodes",
+  "icon": "icon.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kucharzyk-sebastian/sebastian-codes-dracula"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "sebastian codes",
+    "sebastiancodes",
+    "sebastian codes theme",
+    "sebastian codes dark"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
