@@ -1,16 +1,14 @@
-# sebastian-codes-dracula README
+# Sebastian Code Dracula for [Visual Studio Code](http://code.visualstudio.com)
 
-## Working with Markdown
+A dark theme for [Visual Studio Code](http://code.visualstudio.com). Based on the amazing [Dracula](https://github.com/dracula/visual-studio-code) project. It replaces some of the colors with my favorite purples.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+I use it in my [TikTok](https://www.tiktok.com/@sebastiancodes) and [YouTube](https://www.youtube.com/channel/UC6dBPhO7_pRMBcByf_kKBfA/featured) videos. Enjoy!
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+## How it looks
+![Screenshot](https://raw.githubusercontent.com/kucharzyk-sebastian/sebastian-codes-dracula/main/screenshot.jpg)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+## License
+
+[MIT License](./LICENSE)
