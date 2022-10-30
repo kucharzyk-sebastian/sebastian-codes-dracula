@@ -1,4 +1,4 @@
-# Sebastian Code Dracula for [Visual Studio Code](http://code.visualstudio.com)
+# Sebastian Codes Dracula for [Visual Studio Code](http://code.visualstudio.com)
 
 A dark theme for [Visual Studio Code](http://code.visualstudio.com). Based on the amazing [Dracula](https://github.com/dracula/visual-studio-code) project. It replaces some of the colors with my favorite purples.
 
